@@ -1,0 +1,7 @@
+hour=float(input("Enter hours:"))
+#input value for variable num1
+rate=float(input("Enter rate:"))
+#input value for variable num2
+mul=hour*rate;
+#perform multiplication operation
+print("Pay:"mul)
